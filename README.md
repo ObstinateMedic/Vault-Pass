@@ -5,8 +5,9 @@ The objective of this project is to evaluate the strength of user-provided passw
 
 This project will help users create secure passwords by providing feedback on password quality and suggesting improvements.
 
-
-
+# Libraries/Tech-Stack👾
+1. RegEx
+2. Tkinter
 
 
 
