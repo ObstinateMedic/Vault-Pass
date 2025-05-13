@@ -8,6 +8,7 @@ This project will help users create secure passwords by providing feedback on pa
 # Libraries/Tech-Stack👾
 1. RegEx
 2. Tkinter
+3. math
 
 
 
