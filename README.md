@@ -1,4 +1,4 @@
-# Vault-Pass
+# Vault-Pass🔐
 Password Strength Checker which also checks for the entropy that it can be broken or not.
 
 The objective of this project is to evaluate the strength of user-provided passwords based on security criteria.
