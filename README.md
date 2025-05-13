@@ -7,4 +7,7 @@ This project will help users create secure passwords by providing feedback on pa
 
 
 
+
+
+
 Currently working on the entropy part, will update soon...
